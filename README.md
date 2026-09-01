@@ -20,8 +20,7 @@ The **Travel Destination Recommender** is a Machine Learning project that aims t
 * Jupyter Notebook / VS Code
 
 ## Project Status
-
-🚧 This project is currently under development.
+This project is currently under development.
 
 ## Future Scope
 
