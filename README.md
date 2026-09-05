@@ -10,7 +10,7 @@ The **Travel Destination Recommender** is a Machine Learning project that aims t
 * Learn and apply Machine Learning concepts using Python.
 * Build a user-friendly recommendation system.
 
-## Technologies Used
+## Technologies used
 
 * Python
 * Machine Learning
